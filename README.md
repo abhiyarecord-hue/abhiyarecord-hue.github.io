@@ -26,7 +26,7 @@ Already filled in:
 | `HINDUKUSH` | footers, privacy policy, terms |
 | `vikasaivyas@gmail.com` | every contact link |
 | `7 August 2026` | effective / last-updated dates |
-| `pub-7642513984044740` | `app-ads.txt` |
+| `pub-1536082785794019` | `app-ads.txt` |
 | Play link `…details?id=com.mousevcat.game` | landing page (works once published) |
 
 | `https://abhiyarecord-hue.github.io/` | privacy policy contact block |
